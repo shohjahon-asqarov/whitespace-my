@@ -21,7 +21,7 @@ const Testimonials: React.FC = () => {
       name: 'Jessie Owner',
       role: 'Founder',
       company: 'XYZ Company',
-      content: 'If you haven\'t tried whitepace yet, you need to give it a shot for your next event. It\'s so easy and intuitive to get a new event setup and if you need any help their customer service is seriously amazing.',
+      content: 'If you haven&apos;t tried whitepace yet, you need to give it a shot for your next event. It&apos;s so easy and intuitive to get a new event setup and if you need any help their customer service is seriously amazing.',
       rating: 5,
       avatar: 'JO'
     },
@@ -112,7 +112,7 @@ const Testimonials: React.FC = () => {
                   </div>
                   
                   <p className="text-gray-700 mb-6 italic text-sm leading-relaxed">
-                    "{testimonial.content}"
+                    &ldquo;{testimonial.content}&rdquo;
                   </p>
                   
                   <div>

@@ -51,7 +51,7 @@ const WorkTogether: React.FC = () => {
             </div>
 
             <Button size="lg" className="group">
-              Let's Go
+              Let&apos;s Go
               <ArrowRight size={20} className="ml-2 group-hover:translate-x-1 transition-transform" />
             </Button>
           </div>

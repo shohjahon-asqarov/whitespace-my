@@ -63,7 +63,7 @@ const Pricing: React.FC = () => {
             Choose Your Plan
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Whether you want to get organized, keep your family on track, or unleash your team's potential, we've got you covered.
+            Whether you want to get organized, keep your family on track, or unleash your team&apos;s potential, we&apos;ve got you covered.
           </p>
         </div>
 

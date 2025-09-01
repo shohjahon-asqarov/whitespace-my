@@ -25,7 +25,7 @@ const Customize: React.FC = () => {
             </div>
 
             <Button size="lg" className="group">
-              Let's go
+              Let&apos;s go
               <ArrowRight size={20} className="ml-2 group-hover:translate-x-1 transition-transform" />
             </Button>
           </div>
